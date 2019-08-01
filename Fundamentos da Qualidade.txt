@@ -1,0 +1,4 @@
+﻿Fundamentos da Qualidade 
+Introdução ao estudo da Qualidade. Evolução Histórica. Conceitos e Definições
+Fundamentais. Múltiplas Dimensões da Qualidade. Premissas para implementação
+de um Sistema de Qualidade. Método de Controle de Processo.
